@@ -1,2 +1,3 @@
 # hello-world
-The first repository
+Hi humans!
+I like javascript and Sass.
